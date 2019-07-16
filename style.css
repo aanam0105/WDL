@@ -1,0 +1,48 @@
+nav a{
+    color: #ffffff;
+    text-decoration: none; 
+}
+nav ul>li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+header,footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: #222222;
+    padding: 20px;
+    color: #ffffff
+}
+
+header{
+    top: 0;
+}
+
+footer{
+    bottom: 0;
+    text-align: center;
+}
+
+main{
+    margin-top: 10%;
+    padding: 10px;
+}
+
+h1,.photo{
+    text-align: center;
+}
+.photo{
+    border: 2px solid black;
+    border-radius: 10px;
+
+
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+}
